@@ -1,0 +1,20 @@
+﻿  MojeFinansije.cpp
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\fajl.h(106,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\fajl.h(107,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\fajl.h(117,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\fajl.h(132,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\fajl.h(194,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\meniFunkcije.h(106,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\meniFunkcije.h(205,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\meniFunkcije.h(231,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\meniFunkcije.h(241,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\meniFunkcije.h(321,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\meniFunkcije.h(338,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\meniFunkcije.h(360,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\meniFunkcije.h(438,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\meniFunkcije.h(450,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\meniFunkcije.h(509,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\meniFunkcije.h(579,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\meniFunkcije.h(611,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muhom\Desktop\OP\MojeFinansije\MojeFinansije\prijava.h(44): warning C4715: 'registracija': not all control paths return a value
+  MojeFinansije.vcxproj -> C:\Users\muhom\Desktop\OP\MojeFinansije\x64\Debug\MojeFinansije.exe
